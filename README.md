@@ -1,4 +1,4 @@
-# creative computing using game grid systems 
+# creative comp you 😩 ting using game grid systems 
 
 Being introduced to Arduino in class was quite confusing since I didn't really understand anything, @nosiuol and I managed to get TWO(!!!) LEDs to light up, but doing it on tinkerCAD was a pain. 
 

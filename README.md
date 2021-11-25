@@ -43,6 +43,6 @@ This is what it ended up looking like, and this is what the circuit as a whole l
 
 <img width="875" alt="Screenshot 2021-11-25 at 19 47 18" src="https://user-images.githubusercontent.com/95000041/143494366-bb43c5e5-a266-44a4-9f54-ee78cc688d45.png">
 
-While the mechanics on minecraft were way more simplified, i feel like it did help me understand the tinkerCAD circuit better, since i understood the basics. So although it wasn't completely true to life, i feel that it is a fair enough introduction. I wonder what other minecraft mechanisms are representative of real life physical computing examples without us knowing. 
+While the mechanics on minecraft were way more simplified, i feel like it did help me understand the tinkerCAD circuit better, since i understood the basics. So although it wasn't completely true to life, i feel that it is a fair enough introduction. 
 
-
+Please join my minecraft server with @nosiuol or i will start crying and throwing up

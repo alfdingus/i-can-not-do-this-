@@ -12,7 +12,6 @@ I realised that the breadboard reminded me of a grid, which got me thinking abou
 
 Computing skills could be compared to using game mechanics, which people are able to acquire within the context of the game. We dont grow up knowing how to use the different runes in zelda, or different cheat codes on gta, its a skill you acquire by playing the game. I guess creative computing is kinda like that, the numbers just freak me out, which is why games might be a milder way to introduce people to it. 
 
-The redstone crafting mechanics in minecraft reminded me of the arduino circuits we played around with, especially since minecraft uses a grid system too. The open world aspect of minecraft makes it a better option than platformer (but still tile-based) games like celeste and hollow knight. (while these are great games, there is less customisation and you have to follow a linear story-line, which is why the free roam aspect of minecraft makes it a better contender for "creative" computing) 
 
 ![arduino tinkercad](https://user-images.githubusercontent.com/95000041/143492339-8610c5c0-6db6-4d1f-aa63-588d4a040aed.png)
 

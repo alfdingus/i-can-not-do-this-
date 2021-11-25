@@ -48,5 +48,5 @@ This is what it ended up looking like, and this is what the circuit as a whole l
 
 While the mechanics on minecraft were way more simplified, i feel like it did help me understand the tinkerCAD circuit better, since i understood the basics. So although it wasn't completely true to life, i feel that it is a fair enough introduction. I wonder what other minecraft mechanisms are representative of real life physical computing examples without us knowing. 
 
-I'd be interested in seeing how CC can be introduced into games naturally, especially in less open-world games. I feel like it would be cool to see a version of animal crossing where it was less casual and more focused on the specifics of crafting, rather than it being a one-click and done thing. 
+I'd be interested in seeing how CC can be introduced into games naturally, especially in less open-world games. I feel like it would be cool to see a version of animal crossing where it was less casual and more focused on the specifics of crafting, rather than it being a one-click and done thing. Maybe a platform game where the map is a circuit, and to get to the next level the character has to build a specific type of circuit? Kinda like fireboy and watergirl. 
 

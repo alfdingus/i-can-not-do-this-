@@ -1,1 +1,2 @@
-# i-can-not-do-this-
+# creative computing using grid systems 
+

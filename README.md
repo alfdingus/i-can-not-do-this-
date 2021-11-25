@@ -17,7 +17,7 @@ The redstone crafting mechanics in minecraft reminded me of the arduino circuits
 ![arduino tinkercad](https://user-images.githubusercontent.com/95000041/143492339-8610c5c0-6db6-4d1f-aa63-588d4a040aed.png)
 
 
-I tried experimenting on tinkerCAD and got an LED to light up! :] I didn't really know how to take it forward though, so i decided to recreate it on minecraft using their redstone circuit mechanics. It was alot easier using "materials" i was familiar with, while still trying to recreate the arduino circuits we learnt about in class. I feel like an instructional guide using minecraft terminology would be quite funny in helping someone learn about creative computing, kind of like side-quests in a game. 
+I tried experimenting on tinkerCAD and got an LED to light up! :] I didn't really know how to take it forward though, so i decided to recreate it on minecraft using their redstone circuit mechanics. It was alot easier using "materials" i was familiar with, while still trying to recreate the arduino circuits we learnt about in class. 
 
 First, i made the breadboard
 
@@ -36,9 +36,7 @@ Redstone dust was used as the "wire" and Redstone Lamps were used as the "LEDs".
 
 <img width="1340" alt="redstone wiiiire" src="https://user-images.githubusercontent.com/95000041/143493373-389f9225-c9d9-44c9-bccf-ae465057cc26.png">
 
-I connected the 5v socket wire to the "+" on the breadboard. I connected another "wire" from the "GND" port on the Arduino to the "-" on the breadboard. That ensured that the energy was connected to the breadboard on which the LED would be placed. 
-
-I then created an "LED" light using redstone lamps. On minecraft I really only needed to power the redstone lamps with some redstone, but I tried to stay true to the visuals of the circuit on tinkercad, which is why i replicated connecting the LED cathode and anode to a resistor and wire respectively.
+I created an "LED" light using redstone lamps. On minecraft I really only needed to power the redstone lamps with some redstone, but I tried to stay true to the visuals of the circuit on tinkercad.
 
 <img width="1358" alt="redstone LED" src="https://user-images.githubusercontent.com/95000041/143494299-a41fb735-a83d-4a24-9c98-9ccc98cac18e.png">
 
@@ -48,5 +46,4 @@ This is what it ended up looking like, and this is what the circuit as a whole l
 
 While the mechanics on minecraft were way more simplified, i feel like it did help me understand the tinkerCAD circuit better, since i understood the basics. So although it wasn't completely true to life, i feel that it is a fair enough introduction. I wonder what other minecraft mechanisms are representative of real life physical computing examples without us knowing. 
 
-I'd be interested in seeing how CC can be introduced into games naturally, especially in less open-world games. I feel like it would be cool to see a version of animal crossing where it was less casual and more focused on the specifics of crafting, rather than it being a one-click and done thing. Maybe a platform game where the map is a circuit, and to get to the next level the character has to build a specific type of circuit? Kinda like fireboy and watergirl. 
 
